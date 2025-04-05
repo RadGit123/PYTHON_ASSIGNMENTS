@@ -2,7 +2,7 @@
 
 Steps Followed in the Project.
 
-* Data Preprocessing *.
+*Data Preprocessing*.
 
  Checked for missing values and handled them.
  Fixed incorrect data in the Height column by replacing values with random numbers between 150-180.
